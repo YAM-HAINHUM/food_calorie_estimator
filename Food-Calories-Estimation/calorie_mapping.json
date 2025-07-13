@@ -1,0 +1,13 @@
+{
+  "apple_pie": 300,
+  "baby_back_ribs": 500,
+  "baklava": 450,
+  "beef_carpaccio": 320,
+  "beef_tartare": 350,
+  "beet_salad": 150,
+  "beignets": 400,
+  "bibimbap": 550,
+  "bread_pudding": 350,
+  "breakfast_burrito": 600
+  // You can expand with more food categories
+}
